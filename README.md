@@ -1,14 +1,15 @@
-Add in the workshop image here 
-
-![Tool Logo](Image filename)
+![Tool Logo](Visualizations-R.jpg)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process.
+# Making Visualizations in R
+This workshop serves as an introduction to the **ggplot2** package for the R programming language.  By the end of this workshop you should be learn the following:
+ - How to make a variety of visualizations using ggplot2
+ - How to add and adjust aesthetic elements to your visualizations
+ - How to integrate the creation of visualizations into your R workflows
+ 
+No prior experience with R is needed for this workshop
 
-Note recommending any prerequisite knowledge needed for the workshop.  If none is needed then say "No prior experience with WORKSHOP-TOPIC/TOOL is needed for this workshop."
-
-*Estimated length of workshop: ## hours*
+*Estimated workshop length: 1.5 hours*
 
 ----
 
